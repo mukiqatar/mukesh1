@@ -17,6 +17,9 @@ int main(){
     for(i =0;a[i]!='\0';i++)
         sum =sum +a[i];
         printf("sum of ASCII ;%d\n",sum);
+        float x=3.5;
+        printf("%f\n",ceil(x));
+        printf("%f\n",floor(x));
 //this is 
 
 }
