@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     FILE *fp;
-    char ch;
+     int ch;
     fp = fopen("funarray.c","r");
     while(1)
     {
